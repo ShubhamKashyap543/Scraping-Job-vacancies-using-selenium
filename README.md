@@ -1,5 +1,5 @@
 # Scraping-Job-vacancies-using-selenium
-Scraping indeed.com job vacancies for paticular domain using Selenium 
+Scraping job vacancies from ** indeed.com ** using Selenium 
 
 
 **Requirements :**
