@@ -1,5 +1,5 @@
 # Scraping-Job-vacancies-using-selenium
-Scraping job vacancies from ** indeed.com ** using Selenium 
+Scraping job vacancies from **indeed.com ** using Selenium 
 
 
 **Requirements :**
