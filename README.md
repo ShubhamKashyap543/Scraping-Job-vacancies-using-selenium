@@ -1,4 +1,6 @@
 # Scraping-Job-vacancies-using-selenium
+
+**Overview :**
 This Repository gives basic tutorial about how to do webscraping in selenium by Scraping job vacancies from **indeed.com **.
 This repository shows ways to interact with website's different elements such as dropdowns, search-box, paginations etc. 
 
@@ -9,4 +11,4 @@ select chrome driver according to the chrome version installed from this link: h
 
 Selenium : pip Install selenium (in conda environment)
 
-**Output**: The ouput will be xlsx file containing details of job scraped.
+**Output :**: The ouput will be xlsx file containing details of job scraped.
