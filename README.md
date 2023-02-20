@@ -2,7 +2,7 @@
 
 **Overview :**
 This Repository gives basic tutorial about how to do webscraping in selenium by Scraping job vacancies from **indeed.com **.
-This repository shows ways to interact with website's different elements such as dropdowns, search-box, paginations etc. 
+This repository shows ways to interact with website's different elements such as search-box, paginations etc. 
 
 
 **Requirements :**
